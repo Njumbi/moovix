@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Moovix</string>
+    <string name="textview_textview">textview textview</string>
+    <string name="logout">Do you want to logout</string>
+</resources>
